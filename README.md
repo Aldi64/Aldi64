@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Zb7_8a6HD2kAAAAM/zelda.gif">
-
 ## Hi there 👋
 
 <!--
