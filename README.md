@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fzelda-pixel-art-gif-zelda-zelda-botw-gif-gif-26929254&psig=AOvVaw0rJbmNqqhPhsG9iItOx__O&ust=1730383110143000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiknMehtokDFQAAAAAdAAAAABAW">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Zb7_8a6HD2kAAAAM/zelda.gif">
 
 ## Hi there 👋
 
