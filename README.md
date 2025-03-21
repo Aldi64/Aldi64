@@ -65,4 +65,4 @@
 
 ###
 
-<h4 align="left">I'm currently a student at Swiss German University majoring in Information Technology.<br><br>I'm always excited in expanding my knowledge and skills of the IT world. If you have the same passion as me, feel free to reach out to me.</h4>
+<h4 align="left">An undergraduate student at Swiss German University majoring in Information Technology.<br><br>I'm always excited in expanding my knowledge and skills of the IT world. If you have the same passion as me, feel free to reach out to me.</h4>
