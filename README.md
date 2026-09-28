@@ -8,10 +8,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aldi64&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=tokyonight" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <div align="left">
