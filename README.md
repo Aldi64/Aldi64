@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Aldi 👋</h1>
 
 <div align="center">
-  <img height="220" src="https://github.com/Aldi64/Aldi64/blob/2c90f90197bc2bdffc56a3694e1ecc56a1b0fe24/banner.gif?raw=true" />
+  <img height="400" src="https://github.com/Aldi64/Aldi64/blob/2c90f90197bc2bdffc56a3694e1ecc56a1b0fe24/banner.gif?raw=true" />
 </div>
 
 ### Full-stack developer based in Tangerang, Indonesia
